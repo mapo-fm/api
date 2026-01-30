@@ -1,0 +1,1044 @@
+{
+  "schedule": [
+    {
+      "day": "월요일",
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "8:00",
+      "endTime": "8:30",
+      "programName": "아침라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "8:30",
+      "endTime": "9:30",
+      "programName": "굿모닝성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "9:30",
+      "endTime": "11:00",
+      "programName": "칼럼 + 음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "16:00",
+      "endTime": "16:05",
+      "programName": "5분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "16:05",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "저녁 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "청소년방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "김진경의 테크노드림쇼",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (월) 김송포의 시항",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤의 음악편지",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "기분좋은 하루",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "8:00",
+      "endTime": "9:30",
+      "programName": "아침라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "칼럼 + 음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "라디오 카페",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "16:00",
+      "endTime": "16:05",
+      "programName": "5분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "16:05",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "저녁 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "청소년방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "영화가 필요한 시간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (화) 김송포의 쉬는 시간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤의 음악편지",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "8:00",
+      "endTime": "8:30",
+      "programName": "아침라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "8:30",
+      "endTime": "9:30",
+      "programName": "굿모닝성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "칼럼 + 음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "라디오 카페",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "16:00",
+      "endTime": "16:05",
+      "programName": "5분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "16:05",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "저녁 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "청소년방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "약쟁이 스튜디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (수) 정규정의 달빛재즈",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤의 음악편지",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "기분좋은 하루",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "8:00",
+      "endTime": "9:30",
+      "programName": "아침라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "칼럼 + 음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "라디오 카페",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "16:00",
+      "endTime": "16:05",
+      "programName": "5분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "16:05",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "저녁 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "청소년방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (목) 그대의 라디오 안녕입니다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤의 음악편지",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "8:00",
+      "endTime": "9:30",
+      "programName": "아침라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "칼럼 + 음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "라디오 카페",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "음악방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "14:00",
+      "endTime": "14:10",
+      "programName": "14:00-14:10_10분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "14:10",
+      "endTime": "16:00",
+      "programName": "안녕! 두치",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "16:00",
+      "endTime": "16:05",
+      "programName": "5분 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "16:05",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "저녁 라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "청소년방송",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "왁자청소년수 원선임의 쉼표가 있는 오후",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (금) 이우삼의 시인마을",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤의 음악편지",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "6:00",
+      "endTime": "8:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "8:00",
+      "endTime": "8:10",
+      "programName": "라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "8:10",
+      "endTime": "9:00",
+      "programName": "윈드 뮤직",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "9:00",
+      "endTime": "9:30",
+      "programName": "굿모닝성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "저녁 10시방송 스페셜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "10:00",
+      "endTime": "10:10",
+      "programName": "라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "10:10",
+      "endTime": "11:00",
+      "programName": "주말의 음악(토,일)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "해피투게더 (1부)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "차한잔합시다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "해피투게더 스페셜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "나도 진행자다 (일반인 진행)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (토) 권혁주의 pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤 스페셜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "0:00",
+      "endTime": "1:00",
+      "programName": "재즈카페",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "1:00",
+      "endTime": "2:00",
+      "programName": "클래식나들이",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "아침가요광장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "기분좋은 하루",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "8:00",
+      "endTime": "8:10",
+      "programName": "라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "8:10",
+      "endTime": "9:00",
+      "programName": "윈드 뮤직",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "9:00",
+      "endTime": "9:30",
+      "programName": "굿모닝성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "9:30",
+      "endTime": "10:00",
+      "programName": "저녁 10시방송 스페셜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "10:00",
+      "endTime": "10:10",
+      "programName": "라디오정보실",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "10:10",
+      "endTime": "11:00",
+      "programName": "주말의 음악(토,일)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "해피투게더 (2부)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "우리 성남",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "라디오정보실(정오) + 정오뮤직브레이크",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "programName": "팝스 뮤직온",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "즐거운라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "차한잔합시다 (재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "해피투게더 스페셜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "기분좋은하루(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "음악방송-pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "권혁주의 문화여행 (토) 권혁주의 pop",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "한밤 스페셜",
+      "link": "",
+      "image": ""
+    }
+  ]
+}

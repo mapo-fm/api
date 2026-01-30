@@ -1,0 +1,1068 @@
+{
+  "schedule": [
+    {
+      "day": "월요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "8:00",
+      "endTime": "8:52",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "8:52",
+      "endTime": "9:00",
+      "programName": "마포투데이",
+      "link": "https://www.mapofm.net/untitled-23",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636707801334_750.png"
+    },
+    {
+      "day": "월요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "송덕호의 마포속으로",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "슬기로운 잡지생활",
+      "link": "https://www.mapofm.net/untitled-120",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1757576956905_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "그림책 권하는 언니",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "월요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "월요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "송덕호의 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "아스카의 동심연구소(재)",
+      "link": "https://www.mapofm.net/untitled-107",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1688544074576_750.png"
+    },
+    {
+      "day": "월요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "투데이매거진",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "송덕호의 마포속으로(삼)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "왁자지껄 0020 [중앙대 청충앙]",
+      "link": "https://www.mapofm.net/untitled-40",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1649895259835_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "스틸얼라이브",
+      "link": "https://www.mapofm.net/untitled-50",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637138584617_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "스틸얼라이브",
+      "link": "https://www.mapofm.net/untitled-50",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637138584617_750.jpg"
+    },
+    {
+      "day": "월요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "한일뮤직다방",
+      "link": "https://www.mapofm.net/chosuntosinsa",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1753672606020_750.png"
+    },
+    {
+      "day": "월요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "뮤직홍 [웅바이의 인디아카이브]",
+      "link": "https://www.mapofm.net/indiearchive",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1747098269871_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "8:00",
+      "endTime": "8:52",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "8:52",
+      "endTime": "9:00",
+      "programName": "마포투데이",
+      "link": "https://www.mapofm.net/untitled-23",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636707801334_750.png"
+    },
+    {
+      "day": "화요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "송덕호의 마포속으로",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "우리들의 마흔",
+      "link": "https://www.mapofm.net/untitled-84",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1665563970648_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "화요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "화요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "송덕호의 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "뮤직큐레이션",
+      "link": "https://www.mapofm.net/musiccu",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1736760730165_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "오늘도 스파이크",
+      "link": "https://www.mapofm.net/untitled-121",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1756974441369_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "송덕호의 마포속으로(삼)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "왁자지껄 0020(격) [서강대 서라운드]",
+      "link": "https://www.mapofm.net/untitled-38",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637137792384_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "블록킹(재)",
+      "link": "https://www.mapofm.net/blocking",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1715312323123_750.png"
+    },
+    {
+      "day": "화요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "음악의 계절",
+      "link": "https://www.mapofm.net/untitled-103",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1671777227486_750.jpg"
+    },
+    {
+      "day": "화요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "뮤직홍 [야심한밤 이후민입니다]",
+      "link": "https://www.mapofm.net/ya_hoo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1725974678579_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "8:00",
+      "endTime": "8:52",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "8:52",
+      "endTime": "9:00",
+      "programName": "마포투데이",
+      "link": "https://www.mapofm.net/untitled-23",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636707801334_750.png"
+    },
+    {
+      "day": "수요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "송덕호의 마포속으로",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "슬기로운 잡지생활(재)",
+      "link": "https://www.mapofm.net/untitled-120",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1757576956905_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "수요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "수요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "송덕호의 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "마포츠",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "송덕호의 마포속으로(삼)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "낱말상점",
+      "link": "https://www.mapofm.net/wardstore",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1737540760605_750.png"
+    },
+    {
+      "day": "수요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "초록사과의 음수대",
+      "link": "https://www.mapofm.net/untitled-122",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1756974998438_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "L양장점",
+      "link": "https://www.mapofm.net/untitled-60",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637141076419_750.jpg"
+    },
+    {
+      "day": "수요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "뮤직홍 [바람종의 바람그리기]",
+      "link": "https://www.mapofm.net/untitled-70",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1649652563601_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "8:00",
+      "endTime": "8:52",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "8:52",
+      "endTime": "9:00",
+      "programName": "마포투데이",
+      "link": "https://www.mapofm.net/untitled-23",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636707801334_750.png"
+    },
+    {
+      "day": "목요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "송덕호의 마포속으로",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "세상에 이런 JOB이",
+      "link": "https://www.mapofm.net/untitled-111",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1698313030368_750.png"
+    },
+    {
+      "day": "목요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "연남 온에어",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "목요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "목요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "송덕호의 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "뮤직큐레이션(재)",
+      "link": "https://www.mapofm.net/musiccu",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1736760730165_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "오늘도 스파이크(재)",
+      "link": "https://www.mapofm.net/untitled-121",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1756974441369_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "송덕호의 마포속으로(삼)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "왁자지껄 0020 [숙명여대 눈설미]",
+      "link": "https://www.mapofm.net/untitled-39",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1649895423462_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "오늘의 OST",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "불멸의 탱고음악(격)",
+      "link": "https://www.mapofm.net/untitled-100",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1670835334230_750.jpg"
+    },
+    {
+      "day": "목요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "뮤직홍 [체셔의 밤 라디오]",
+      "link": "https://www.mapofm.net/untitled-86",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1665565793221_750.jpg"
+    },
+    {
+      "day": "금요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "8:00",
+      "endTime": "8:52",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "8:52",
+      "endTime": "9:00",
+      "programName": "마포투데이",
+      "link": "https://www.mapofm.net/untitled-23",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636707801334_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "송덕호의 마포속으로",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "금요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "마포대표살롱",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "골목한쪽",
+      "link": "https://www.mapofm.net/untitled-49",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637139000650_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "송덕호의 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "금요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "아스카의 동심연구소",
+      "link": "https://www.mapofm.net/untitled-107",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1688544074576_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "마포츠(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "송덕호의 마포속으로(삼)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "금요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "왁자지껄 0020 [이화여대 프렌디오]",
+      "link": "https://www.mapofm.net/untitled-45",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637138048516_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "블록킹",
+      "link": "https://www.mapofm.net/blocking",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1715312323123_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "한일뮤직다방(재)",
+      "link": "https://www.mapofm.net/chosuntosinsa",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1753672606020_750.png"
+    },
+    {
+      "day": "금요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "음악의 계절(재)",
+      "link": "https://www.mapofm.net/untitled-103",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1671777227486_750.jpg"
+    },
+    {
+      "day": "금요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "8:00",
+      "endTime": "8:47",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "8:47",
+      "endTime": "9:00",
+      "programName": "김모씨의 주간날씨",
+      "link": "https://www.mapofm.net/untitled-108",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1688970141481_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "주말 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "세상에 이런 JOB이(재)",
+      "link": "https://www.mapofm.net/untitled-111",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1698313030368_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "그림책 권하는 언니(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고(월)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고(월)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "복고복고(화)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "복고복고(화)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "50+ 통통수다/영화(격)",
+      "link": "https://www.mapofm.net/untitled-43",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637136451919_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "50+ 힐링을 부탁해(격)",
+      "link": "https://www.mapofm.net/untitled-42",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637136756639_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "주말 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "클래식fm",
+      "link": "https://www.mapofm.net/classic",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1755591420910_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "낱말상점(재)",
+      "link": "https://www.mapofm.net/wardstore",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1737540760605_750.png"
+    },
+    {
+      "day": "토요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "스틸얼라이브(재)",
+      "link": "https://www.mapofm.net/untitled-50",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637138584617_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "스틸얼라이브(재)",
+      "link": "https://www.mapofm.net/untitled-50",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637138584617_750.jpg"
+    },
+    {
+      "day": "토요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "6:50",
+      "endTime": "7:00",
+      "programName": "방송개시멘트",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "뮤직홍(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "8:00",
+      "endTime": "8:47",
+      "programName": "아침을 여는 음악 (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "8:47",
+      "endTime": "9:00",
+      "programName": "김모씨의 주간날씨(재)",
+      "link": "https://www.mapofm.net/untitled-108",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1688970141481_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "주말 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "우리들의 마흔(재)",
+      "link": "https://www.mapofm.net/untitled-84",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1665563970648_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "BGM",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "복고복고(수)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "복고복고(수)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "복고복고(목)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "복고복고(목)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "복고복고(금)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "복고복고(금)",
+      "link": "https://www.mapofm.net/bokgobokgo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1636711546767_750.png"
+    },
+    {
+      "day": "일요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "주말 마포속으로(재)",
+      "link": "https://www.mapofm.net/intomapo",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1629448221871_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "클래식fm(재)",
+      "link": "https://www.mapofm.net/classic",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1755591420910_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "오늘의 OST(재)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "초록사과의 음수대(재)",
+      "link": "https://www.mapofm.net/untitled-122",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1756974998438_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "L양장점(재)",
+      "link": "https://www.mapofm.net/untitled-60",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637141076419_750.jpg"
+    },
+    {
+      "day": "일요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "뮤직홍 [라디오 속 오르빌]",
+      "link": "https://www.mapofm.net/untitled-57",
+      "image": "https://contents.sixshop.com/thumbnails/uploadedFiles/53441/default/image_1637140201986_750.jpg"
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "schedule": [
+    {
+      "day": "월요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "구민만세 SonEFM (BGM)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "미디어 동아리_ESG 수다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "지금, 여기, 함께 수원!",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "마포실전정류장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "OBS 오늘의 기록",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "몰고올라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "숲속 소통 우체통",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "러너스 해피에코",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "별별 미술관",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "미디어 동아리_ESG 수다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "카페에서 만난 사람들",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "시가 흐르는 텃밭",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "귀로 배우는 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "월요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "밤의 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "우리동네네안나(단원FM) 끝나지 않은 세월 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "그때 그 시절",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "김덕년의 행복한 학교 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "자치회관 토크쇼",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "[416재단 재난안전보건사업] 오늘도 안녕하세요",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "로라의 톡톡톡",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "교육공감",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "애니의 설레는 문학여행",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "우리동네네안나(단원FM) 끝나지 않은 세월 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "로라의 톡톡톡",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "우리 열린 문화 공간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "시, 노래가 되다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "화요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "별별 미술관",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "우리동네네안나(진주FM) 지구로운 채식생활",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "[416재단 재난안전보건사업] 오늘도 안녕하세요",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "경력변의 소심상담소",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "자치회관 토크쇼",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "정련장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "별무리여행",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "그 사이 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "자치분권 토크쇼",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "호두할미와 그린할미의 그림책이야기 <토끼타카>",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "우리동네네안나(진주FM) 지구로운 채식생활",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "로라의 톡톡톡",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "시, 노래가 되다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "그녀들의 세상 사는 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "애착이 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "수요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "밤의 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "우리동네네안나(전주FM) 마니또를 당신께 보냅니다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "OBS 오늘의 기록",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "귀로 배우는 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "수원지은 지금",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "정련장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "맛있는 점심시간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "그 사이 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "몰고올라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "경기마당 드라마",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "우리동네네안나(단원FM) 마니또를 당신께 보냅니다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "음악여행",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "정련장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "그때 그 시절",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "시가 흐르는 텃밭",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "목요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "굿모닝 에너지 조청호의 멘탈을 잡아라",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "우리동네네안나(광주FM) 마니또를 당신께 보냅니다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "수원지은 지금",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "교육공감",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "그녀들의 세상사는 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "지금, 여기, 함께 수원!",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "카페에서 만난 사람들",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "그 사이 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "김덕년의 행복한 학교 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "정다겸의 예술 톡톡톡 라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "우리동네네안나(광주FM) 마니또를 당신께 보냅니다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "그 사이 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "애착이 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "굿모닝 에너지 조청호의 멘탈을 잡아라",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "호두할미와 그린할미의 그림책이야기 <토끼타카>",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "금요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "밤의 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "시가 흐르는 텃밭",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "귀로 배우는 음악",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "교육공감",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "마을살이정류장",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "지금, 여기, 함께 수원!",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "맛있는 점심시간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "러너스 해피에코",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "별별 미술관",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "정다겸의 예술 톡톡톡 라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "숲속 소통 우체통",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "지금, 여기, 함께 수원!",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "몰고올라디오",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "토요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "밤의 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "6:00",
+      "endTime": "7:00",
+      "programName": "우리동네네안나(공동체라디오)",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "7:00",
+      "endTime": "8:00",
+      "programName": "애착이 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "8:00",
+      "endTime": "9:00",
+      "programName": "수원지은 지금",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "programName": "김덕년의 행복한 학교 이야기",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "programName": "시, 노래가 되다",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "programName": "지금, 여기, 함께 수원!",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "programName": "로라의 톡톡톡",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "programName": "러너스 해피에코",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "programName": "자치분권 토크쇼",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "programName": "호두할미와 그린할미의 그림책이야기 <토끼타카>",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "programName": "별무리여행",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "programName": "963 음악뿜뿜",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "programName": "경력변의 소심상담소",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "programName": "굿모닝 에너지 조청호의 멘탈을 잡아라",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "programName": "애착이 산책",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "22:00",
+      "endTime": "23:00",
+      "programName": "우리 열린 문화 공간",
+      "link": "",
+      "image": ""
+    },
+    {
+      "day": "일요일",
+      "startTime": "23:00",
+      "endTime": "0:00",
+      "programName": "굿모닝 에너지 조청호의 멘탈을 잡아라",
+      "link": "",
+      "image": ""
+    }
+  ]
+}
